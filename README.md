@@ -1,1 +1,5 @@
-# location-tracking-by-Phone-Number
+pip install phonenumbers
+
+pip install opencage
+
+pip install folium
